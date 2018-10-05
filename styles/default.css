@@ -1,0 +1,17 @@
+.container {
+    display: block; 
+    margin: 80px auto 0 auto; 
+    text-align: center;
+}
+
+.container h1 {
+    font-family: 'Mali', cursive;
+}
+
+.container a {
+    text-decoration: none;
+}
+
+.container a:hover {
+    text-decoration: underline;
+}
